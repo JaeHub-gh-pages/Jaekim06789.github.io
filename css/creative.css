@@ -220,13 +220,12 @@ header.masthead p {
 }
 
 #PortfolioRow{
-    height: 240px;
 }
 
 .portfolio-box {
   position: relative;
   display: block;
-  max-width: 650px;
+  max-width: 400px;
   margin: 0 auto;
 }
 
